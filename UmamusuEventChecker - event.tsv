@@ -1,4 +1,4 @@
-#CharNo	Charactor name	Event name	hash-a	hash-p	hash-d	hash-w	sel1	sel1-effect	sel2	sel2-effect	sel3	sel3-effect	sel4	sel4-effect	sel5	sel5-effect
+#CharNo	Charactor name	Event name	hash-a	hash-p	hash-d	hash-w	sel1	sel1-effect	sel2	sel2-effect	sel3	sel3-effect	sel4	sel4-effect	sel5	sel5-effect 
 1	[スペシャルドリーマー]スペシャルウィーク(育成)	あなたと行きたい場所					遊園地とか？	賢さ+10	山登りとか？	スタミナ+10						
 1	[スペシャルドリーマー]スペシャルウィーク(育成)	あんし～ん笹針師、参☆上	010131bdf9fd0101	aa1530f2cf1fce21	7b9f63696369efbb	0101bdfdfdfd0103	強いウマ娘になれる秘孔を狙う	【成功時】 全ステ+20 【失敗時】 やる気-1 全ステ-15 「夜ふかし気味」	レースで勝てる秘孔を狙う	【成功時】 「コーナー回復〇」 「直線回復」\n 【失敗時】 やる気-1 体力-20	元気で健康になれる秘孔を狙う	【成功時】 体力最大値+12 体力+40\n【失敗時】 やる気-1 体力-20 「練習ベタ」	魅力アップの秘孔を狙う	【成功時】 体力+20 やる気+1 「愛嬌〇」\n【失敗時】 やる気-1 体力-10	不安なのでやめておく	体力+10
 1	[スペシャルドリーマー]スペシャルウィーク(育成)	お大事に！	0101c1c1c1c10101	aa000ffff8e7f004	ffff9f9f9f977fbf	0307c7e7e7c70703	今日はもう休もうか	【失敗時】 やる気-1 直前のトレーニング種別-5～10 確率で「練習ベタ」\n【成功時】 「練習上手○」	次は気を付けよう	【失敗時】 やる気-1 直前のトレーニング種別-5～10 確率で「練習ベタ」\n【成功時】 「練習上手○」						
